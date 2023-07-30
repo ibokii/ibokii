@@ -36,7 +36,7 @@
 <a href="https://www.instagram.com/iobokii/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
-![](https://komarev.com/ghpibokii)
+![](https://komarev.com/ghpvc/?username=ibokii&color=brightgreen)
 <!--
 **ibokii/ibokii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
