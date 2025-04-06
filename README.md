@@ -1,10 +1,5 @@
 
 [![MasterHead](header.png)](https://github.com/ibokii)
-<h3 align="left">About me:</h3>
-<p align="left">
-  I am a beginner Python developer. I have no commercial experience in IT, but I have a great desire to get it. I am currently taking a Google Data Analytics course and want to continue my development in the field of data, as a Data Analyst or Data Engineer. 
-  I also draw sometimes (you can check out my profile on Instagram 😁). 
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <!-- Python -->
